@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaulHoskisson
-- 👀 I’m interested in evolutionary biology, particulrly Streptomyces bacteria
+- 👀 I’m interested in evolutionary biology, particularly Streptomyces bacteria
 - 🌱 I’m currently learning to code in python
 - 📫 How to reach me Twitter @paulhoskisson
 
